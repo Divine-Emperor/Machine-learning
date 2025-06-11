@@ -1,0 +1,11 @@
+Experience,Education,Certifications,JobRole,Location,Salary
+1,0,0,Software Engineer,New York,55000
+3,1,1,Data Scientist,San Francisco,78000
+5,2,2,Manager,New York,110000
+2,1,0,Software Engineer,Bangalore,40000
+6,0,3,Software Engineer,San Francisco,95000
+8,2,1,Manager,Bangalore,125000
+4,1,2,Data Scientist,New York,90000
+10,2,4,Manager,San Francisco,150000
+7,1,3,Software Engineer,New York,115000
+9,2,2,Data Scientist,Bangalore,130000
